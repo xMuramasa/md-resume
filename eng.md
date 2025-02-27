@@ -1,7 +1,6 @@
 # MARTÍN SALINAS SCUSSOLIN  
 **Computer Science Engineer - Universidad Técnica Federico Santa María**  
 📧 martin.salinas.scussolin@gmail.com  
-📞 +56998367828  
 https://www.linkedin.com/in/xmuramasa  
 https://www.github.com/xmuramasa  
 
