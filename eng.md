@@ -13,7 +13,7 @@ https://www.github.com/xmuramasa
 - **Scripting & Shell**: PowerShell, Bash  
 - **Programming Languages**: TypeScript, JavaScript, Go, Python, C/C++  
 - **Web & Mobile Development**: React, React Native, HTML, CSS/SCSS, MUI  
-- **Databases**: SQL, NoSQL (AWS DynamoDB), PostgreSQL  
+- **Databases**: AWS DynamoDB, PostgreSQL  
 - **Documentation & Collaboration**: LaTeX, MS Office, Notion, Slack  
 
 ---
