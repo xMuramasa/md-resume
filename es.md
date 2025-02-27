@@ -1,9 +1,9 @@
 # MARTÍN SALINAS SCUSSOLIN
-**Ingeniero Civil en Computación - Universidad Técnica Federico Santa María**
-📧 martin.salinas.scussolin@gmail.com
-📞 +56998367828
-https://www.linkedin.com/in/xmuramasa
-https://www.github.com/xmuramasa
+**Ingeniero Civil en Computación - Universidad Técnica Federico Santa María**  
+📧 martin.salinas.scussolin@gmail.com  
+📞 +56998367828  
+https://www.linkedin.com/in/xmuramasa  
+https://www.github.com/xmuramasa  
 
 ---
 
@@ -59,10 +59,9 @@ Ingeniero de Software apasionado con una sólida experiencia en desarrollo web y
 **(Jun 2022 – Nov 2023) | Santiago, Chile**
 - Desarrollé y optimicé aplicaciones internas y externas para plataformas web y móviles.
 - Especializado en **JavaScript (React, React Native, MUI)** y desarrollo backend con **Python y PostgreSQL**.
-- Implementé pipelines de CI/CD y control de versiones utilizando **GitLab**.
-- Apliqué diversas **técnicas de desarrollo frontend y backend** para mejorar la eficiencia del sistema.
+- Experimenté con el control de versiones utilizando **GitLab**.
 
-### **Ingeniero Junior de Ciberseguridad (Práctica)** – NTT Data Chile
+### **Ingeniero de Ciberseguridad (Práctica)** – NTT Data Chile
 **(Ene 2022 – Mar 2022) | Santiago, Chile**
 - Adquirí experiencia en **arquitecturas de red basadas en Azure**.
 - Asistí en el desarrollo de **políticas de prevención y mitigación de ciberataques**.
