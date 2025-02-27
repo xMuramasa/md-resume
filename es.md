@@ -1,7 +1,6 @@
 # MARTÍN SALINAS SCUSSOLIN
 **Ingeniero Civil en Computación - Universidad Técnica Federico Santa María**  
 📧 martin.salinas.scussolin@gmail.com  
-📞 +56998367828  
 https://www.linkedin.com/in/xmuramasa  
 https://www.github.com/xmuramasa  
 
@@ -13,7 +12,7 @@ https://www.github.com/xmuramasa
 - **Scripting & Shell**: PowerShell, Bash
 - **Lenguajes de Programación**: TypeScript, JavaScript, Go, Python, C/C++
 - **Desarrollo Web & Móvil**: React, React Native, HTML, CSS/SCSS, MUI
-- **Bases de Datos**: SQL, NoSQL (AWS DynamoDB), PostgreSQL
+- **Bases de Datos**: AWS DynamoDB, PostgreSQL
 - **Documentación & Colaboración**: LaTeX, MS Office, Notion, Slack
 
 ---
